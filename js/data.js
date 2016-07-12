@@ -17,9 +17,9 @@ var _db = {
             "question-3": ""
         },
         {
-            "radio" : "",
-            "checkbox" : [],
-            "select" : ""
+            "radio" :       "",
+            "checkbox" :    [],
+            "select" :      ""
         }
     ]
 };
