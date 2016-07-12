@@ -2,24 +2,24 @@
 var _db = {
     "sections": [
         {
-            "fullName": "",
-            "email":    "",
-            "color":    ""
+            "fullName": null,
+            "email":    null,
+            "color":    null
         },
         {
-            "question-1": "",
-            "question-2": "",
-            "question-3": ""
+            "question-1": null,
+            "question-2": null,
+            "question-3": null
         },
         {
-            "question-1": "",
-            "question-2": "",
-            "question-3": ""
+            "question-1": null,
+            "question-2": null,
+            "question-3": null
         },
         {
-            "radio" :       "",
-            "checkbox" :    [],
-            "select" :      ""
+            "radio" :     null,
+            "checkbox" :  [],
+            "select" :    null
         }
     ]
 };
